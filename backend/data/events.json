@@ -1,0 +1,105 @@
+[
+  {
+    "name": "React Bootcamp",
+    "organizer": "Tech Hub",
+    "location": "Chennai",
+    "dateTime": "2026-03-10T10:00:00Z",
+    "description": "Learn React from scratch",
+    "capacity": 100,
+    "seatsLeft": 100,
+    "category": "Tech"
+  },
+  {
+    "name": "Football Meetup",
+    "organizer": "Sports Club",
+    "location": "Ambattur",
+    "dateTime": "2026-03-15T07:00:00Z",
+    "description": "Weekend football game",
+    "capacity": 20,
+    "seatsLeft": 18,
+    "category": "Sports"
+  },
+  {
+    "name": "JavaScript Advanced Workshop",
+    "organizer": "Code Academy",
+    "location": "Chennai",
+    "dateTime": "2026-03-18T11:30:00Z",
+    "description": "Deep dive into modern JavaScript",
+    "capacity": 50,
+    "seatsLeft": 35,
+    "category": "Tech"
+  },
+  {
+    "name": "Startup Networking Night",
+    "organizer": "Chennai Founders",
+    "location": "T Nagar",
+    "dateTime": "2026-03-20T18:00:00Z",
+    "description": "Meet entrepreneurs and investors",
+    "capacity": 80,
+    "seatsLeft": 42,
+    "category": "Business"
+  },
+  {
+    "name": "Morning Yoga Session",
+    "organizer": "Wellness Group",
+    "location": "Anna Nagar",
+    "dateTime": "2026-03-22T05:30:00Z",
+    "description": "Relaxing yoga for beginners",
+    "capacity": 25,
+    "seatsLeft": 12,
+    "category": "Health"
+  },
+  {
+    "name": "MERN Stack Bootcamp",
+    "organizer": "Dev Circle",
+    "location": "Velachery",
+    "dateTime": "2026-03-25T09:00:00Z",
+    "description": "Build fullstack apps using MERN",
+    "capacity": 60,
+    "seatsLeft": 28,
+    "category": "Tech"
+  },
+  {
+    "name": "Swimming Practice",
+    "organizer": "Aqua Club",
+    "location": "Ambattur",
+    "dateTime": "2026-03-26T06:00:00Z",
+    "description": "Group swimming practice",
+    "capacity": 15,
+    "seatsLeft": 7,
+    "category": "Sports"
+  },
+  {
+    "name": "UI/UX Design Workshop",
+    "organizer": "Design Space",
+    "location": "OMR",
+    "dateTime": "2026-03-28T14:00:00Z",
+    "description": "Learn Figma and UI principles",
+    "capacity": 40,
+    "seatsLeft": 21,
+    "category": "Design"
+  },
+  {
+    "name": "Photography Walk",
+    "organizer": "Lens Lovers",
+    "location": "Marina Beach",
+    "dateTime": "2026-03-30T16:30:00Z",
+    "description": "Street photography practice",
+    "capacity": 30,
+    "seatsLeft": 16,
+    "category": "Art"
+  },
+  {
+    "name": "Crypto & Trading Basics",
+    "organizer": "Market Minds",
+    "location": "Guindy",
+    "dateTime": "2026-04-02T19:00:00Z",
+    "description": "Introduction to trading strategies",
+    "capacity": 70,
+    "seatsLeft": 54,
+    "category": "Finance"
+  }
+
+ 
+  
+]
